@@ -1,7 +1,3 @@
-# Sabareesh
-# Meenakshisundaram Balasubramanian
-# smeenaks
-
 from pyspark import SparkContext
 import sys
 sc = SparkContext()
